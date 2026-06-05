@@ -56,6 +56,7 @@ Flask API      Telegram Alerter
 
 Dashboard      Mobile Alerts
 ```
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/799cba6e-ea1a-4872-a807-e2c4d7049cac" />
 
 ---
 
